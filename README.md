@@ -3,3 +3,4 @@
 #### Lỗ hổng liên quan đến URL
 # 1 số hàm PHP để gửi HTTP Request
 #### file_get_contents, http_build_query, curl_exec, fopen(allow_url_fopen phải là TRUE),......
+# Networking
